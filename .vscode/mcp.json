@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "weather": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\mural\\OneDrive\\Documents\\weather",
+        "run",
+        "weather.py"
+      ]
+    }
+  }
+}
